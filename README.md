@@ -8,7 +8,7 @@ authentication, and filtering.
 
 **Technologies Used -** 
 Node.js
-Express (if used)
+Express 
 MongoDB
 Docker/Docker Compose
 
