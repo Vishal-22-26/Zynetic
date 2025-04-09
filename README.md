@@ -35,8 +35,8 @@ If you prefer to run the application without Docker, you'll need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bookstore-api.git
-   cd bookstore-api
+   git clone https://github.com/Vishal-22-26/Zynetic.git
+   cd Zynetic
 2. Start the application using Docker Compose:
      docker-compose up --build
 3. The API will be available at:
@@ -51,8 +51,8 @@ If you prefer to run the application without Docker, you'll need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bookstore-api.git
-   cd bookstore-api
+   git clone https://github.com/Vishal-22-26/Zynetic.git
+   cd Zynetic
 
 2. Install dependencies:
     npm install
